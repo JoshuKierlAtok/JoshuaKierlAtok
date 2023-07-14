@@ -31,3 +31,8 @@ So to try run this program here in https://remix.ethereum.org/. in here you can 
        }
        }
      }
+# Author 
+Joshua Kierl Atok
+
+BSIT 2.1
+
