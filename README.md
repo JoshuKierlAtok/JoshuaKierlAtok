@@ -1,7 +1,7 @@
 # Atok
-
+lagay mo purpose nitong token mo 
 # Description
-
+description about sa token mo 
 # Getting Started
 So to try run this program here in https://remix.ethereum.org/. in here you can run this code. Add file then paste this code that I created
      
@@ -31,6 +31,7 @@ So to try run this program here in https://remix.ethereum.org/. in here you can 
        }
        }
      }
+turo mo step by step paano mapapagana
 # Author 
 Joshua Kierl Atok
 
