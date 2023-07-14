@@ -1,7 +1,7 @@
 # Atok
-lagay mo purpose nitong token mo 
+The provided code represents a smart contract called "MyToken" written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract defines a custom token called "ATOK" with the symbol "ATK".
 # Description
-description about sa token mo 
+The provided Solidity program represents a basic implementation of a token contract called "MyToken." This contract allows the creation and management of a custom token named "ATOK" (abbreviated as "ATK") on the Ethereum blockchain.
 # Getting Started
 So to try run this program here in https://remix.ethereum.org/. in here you can run this code. Add file then paste this code that I created
      
