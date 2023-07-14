@@ -30,4 +30,4 @@ So to try run this program here in https://remix.ethereum.org/. in here you can 
         balances[_address] -= _value;
     }
     }
-}
+   }
