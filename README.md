@@ -47,5 +47,5 @@ Joshua Kierl Atok
 
 BSIT 2.1
 
-#Lincese
+# Lincese
 This project is licensed under the MIT License - see the LICENSE.md file for details.
