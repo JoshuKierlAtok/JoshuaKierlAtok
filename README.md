@@ -28,6 +28,6 @@ So to try run this program here in https://remix.ethereum.org/. in here you can 
         if(balances[_address] >= _value) {
         totalSupply -= _value;
         balances[_address] -= _value;
-    }
-    }
-   }
+       }
+       }
+     }
