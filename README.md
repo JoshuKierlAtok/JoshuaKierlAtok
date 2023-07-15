@@ -4,10 +4,9 @@ The provided code represents a smart contract called "MyToken" written in Solidi
 The provided Solidity program represents a basic implementation of a token contract called "MyToken." This contract allows the creation and management of a custom token named "ATOK" (abbreviated as "ATK") on the Ethereum blockchain.
 # Getting Started
 So to try run this program here in https://remix.ethereum.org/. in here you can run this code. Add file then paste this code that I created
-     
-contract MyToken {
-
-   //  public variables here
+    
+     contract MyToken {
+        //  public variables here
     string public name = "ATOK";
     string public symbol = "ATK";
     uint public totalSupply = 0;
@@ -28,8 +27,7 @@ contract MyToken {
         balances[_address] -= _amount;
     }
     }
-}
-
+     }
 Make sure that the Solidity Compiler is selected on the Remix interface. You can choose the appropriate compiler version by clicking on the "Compiler" tab in the right-hand panel and selecting a version that is compatible with your code.
 
 Compile the contract by clicking on the "Compile" button in the Remix interface. You should see the compiler output in the right-hand panel, and any errors or warnings will be displayed if present.
